@@ -13,6 +13,7 @@ public class Vowels {
            s2+=ch[i];
    System.out.println("test.....");
            System.out.println("test.....1111");
+           System.out.println("test.....1111");
        }
        System.out.println(s2);
     }
