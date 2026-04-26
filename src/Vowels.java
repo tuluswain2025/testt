@@ -11,7 +11,7 @@ public class Vowels {
           // System.out.println(ch[5]);
           //sb.append(ch[i]);--------------------------------------------------------------
            s2+=ch[i];
-
+   System.out.println("test.....");
        }
        System.out.println(s2);
     }
